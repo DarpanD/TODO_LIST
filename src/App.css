@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  /* width: 100vw; */
+  height: 100%;
+  background-color: #282c34;
+  text-align: center;
+  color: white;
+}
+
+.card {
+  width: 80%;
+}
+
+.todo-lists {
+  gap: 20px;
+}
